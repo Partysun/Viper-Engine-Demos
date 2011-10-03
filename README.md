@@ -4,6 +4,7 @@ About Viper
 -----
 Viper is an open source game-making library that is completely free for personal or commercial use. Written entirely in Java by Yura Zatsepin.
 Viper is easy to learn, extend and customize. 
+Basic is PlayN - http://code.google.com/p/playn/
 
 Overview
 -----
