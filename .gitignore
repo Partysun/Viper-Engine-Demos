@@ -1,0 +1,24 @@
+.classpath
+.project
+.settings
+.DS_Store
+target
+
+# Ignore pythagoras if it's symlinked here for sbt
+pythagoras
+
+# /android/
+/android/bin
+/android/gen
+
+# /core/
+/core/bin
+/core/.gwt
+
+# /flash/
+/flash/target
+/flash/.gwt
+
+# /html/
+/html/target
+/html/.gwt

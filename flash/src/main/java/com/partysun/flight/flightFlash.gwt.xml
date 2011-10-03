@@ -1,0 +1,11 @@
+<module rename-to='flightflash'>
+  <inherits name='playn.PlayNFlash'/>
+
+  <source path='core'/>
+  <source path='viper'/>
+  <source path='flash'/>
+
+  <public path="resources" />
+
+  <entry-point class='com.partysun.flight.flash.flightFlash'/>
+</module>
